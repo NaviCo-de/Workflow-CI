@@ -1,0 +1,13 @@
+name: breast-cancer-pidi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.7
+  - pip
+  - pip:
+      - mlflow==2.19.0
+      - matplotlib==3.9.2
+      - scikit-learn==1.5.2
+      - scipy==1.14.1
+      - pandas==2.2.3
+      - numpy==2.0.2

@@ -1,0 +1,52 @@
+{
+  "rows_before": 569,
+  "rows_after_deduplication": 569,
+  "duplicates_removed": 0,
+  "missing_features_after_numeric_coercion": 0,
+  "feature_count": 30,
+  "feature_columns": [
+    "mean_radius",
+    "mean_texture",
+    "mean_perimeter",
+    "mean_area",
+    "mean_smoothness",
+    "mean_compactness",
+    "mean_concavity",
+    "mean_concave_points",
+    "mean_symmetry",
+    "mean_fractal_dimension",
+    "radius_error",
+    "texture_error",
+    "perimeter_error",
+    "area_error",
+    "smoothness_error",
+    "compactness_error",
+    "concavity_error",
+    "concave_points_error",
+    "symmetry_error",
+    "fractal_dimension_error",
+    "worst_radius",
+    "worst_texture",
+    "worst_perimeter",
+    "worst_area",
+    "worst_smoothness",
+    "worst_compactness",
+    "worst_concavity",
+    "worst_concave_points",
+    "worst_symmetry",
+    "worst_fractal_dimension"
+  ],
+  "target_column": "target",
+  "test_size": 0.2,
+  "random_state": 42,
+  "train_rows": 455,
+  "test_rows": 114,
+  "train_class_distribution": {
+    "0": 170,
+    "1": 285
+  },
+  "test_class_distribution": {
+    "0": 42,
+    "1": 72
+  }
+}

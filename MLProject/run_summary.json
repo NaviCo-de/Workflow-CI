@@ -1,0 +1,8 @@
+{
+  "run_id": "09e6d624e078437ab24425661b2983b4",
+  "test_accuracy": 0.9473684210526315,
+  "test_precision_malignant": 0.9285714285714286,
+  "test_recall_malignant": 0.9285714285714286,
+  "test_f1_malignant": 0.9285714285714286,
+  "test_roc_auc": 0.9937169312169312
+}
